@@ -1,0 +1,20 @@
+#txt1 {
+  font-size: 22px;
+  line-height: 24px;
+  color: black;
+}
+#txt2 {
+  font-size: 22px;
+  line-height: 24px;
+  color: black;
+}
+#txt3 {
+  font-size: 22px;
+  line-height: 24px;
+  color: black;
+}
+.material-symbols-outlined {
+  display: inline-flex;
+  vertical-align: top;
+  color: black;
+}
